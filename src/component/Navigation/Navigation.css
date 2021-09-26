@@ -1,0 +1,45 @@
+header{
+    background: rgba(0, 0, 0, 0.4)url(header.jpg);
+    background-blend-mode: darken;
+    background-size: cover;
+    height: 500px;
+    
+    
+}
+
+.header-title{
+    text-align: center;
+    font-size: 270%;
+    font-weight: 800;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #ffffff;
+    letter-spacing: 0.007em;
+}
+
+.btn1{
+    border: 1px solid white;
+}
+.second-h2{
+    color: rgba(255,255,255,0.8);
+    margin: 20px auto 40px;
+    font-size: 20px;
+    font-weight: 500;
+    max-width: 600px;
+}
+
+.row1{
+    margin-left: 400px;
+}
+
+.nav-item-color{
+    color: white;
+}
+
+.nav-item-color:hover{
+    color: white;
+}
+
+.input-field{
+    width: 75%;
+}
